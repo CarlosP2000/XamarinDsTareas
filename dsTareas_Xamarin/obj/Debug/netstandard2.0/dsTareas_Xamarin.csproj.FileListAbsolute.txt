@@ -1,0 +1,14 @@
+C:\Users\hugop\OneDrive\Escritorio\DSTareas\dsTareas_Xamarin\dsTareas_Xamarin\bin\Debug\netstandard2.0\dsTareas_Xamarin.deps.json
+C:\Users\hugop\OneDrive\Escritorio\DSTareas\dsTareas_Xamarin\dsTareas_Xamarin\bin\Debug\netstandard2.0\dsTareas_Xamarin.dll
+C:\Users\hugop\OneDrive\Escritorio\DSTareas\dsTareas_Xamarin\dsTareas_Xamarin\bin\Debug\netstandard2.0\ref\dsTareas_Xamarin.dll
+C:\Users\hugop\OneDrive\Escritorio\DSTareas\dsTareas_Xamarin\dsTareas_Xamarin\bin\Debug\netstandard2.0\dsTareas_Xamarin.pdb
+C:\Users\hugop\OneDrive\Escritorio\DSTareas\dsTareas_Xamarin\dsTareas_Xamarin\obj\Debug\netstandard2.0\dsTareas_Xamarin.csprojAssemblyReference.cache
+C:\Users\hugop\OneDrive\Escritorio\DSTareas\dsTareas_Xamarin\dsTareas_Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hugop\OneDrive\Escritorio\DSTareas\dsTareas_Xamarin\dsTareas_Xamarin\obj\Debug\netstandard2.0\dsTareas_Xamarin.AssemblyInfoInputs.cache
+C:\Users\hugop\OneDrive\Escritorio\DSTareas\dsTareas_Xamarin\dsTareas_Xamarin\obj\Debug\netstandard2.0\dsTareas_Xamarin.AssemblyInfo.cs
+C:\Users\hugop\OneDrive\Escritorio\DSTareas\dsTareas_Xamarin\dsTareas_Xamarin\obj\Debug\netstandard2.0\dsTareas_Xamarin.csproj.CoreCompileInputs.cache
+C:\Users\hugop\OneDrive\Escritorio\DSTareas\dsTareas_Xamarin\dsTareas_Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hugop\OneDrive\Escritorio\DSTareas\dsTareas_Xamarin\dsTareas_Xamarin\obj\Debug\netstandard2.0\dsTareas_Xamarin.dll
+C:\Users\hugop\OneDrive\Escritorio\DSTareas\dsTareas_Xamarin\dsTareas_Xamarin\obj\Debug\netstandard2.0\ref\dsTareas_Xamarin.dll
+C:\Users\hugop\OneDrive\Escritorio\DSTareas\dsTareas_Xamarin\dsTareas_Xamarin\obj\Debug\netstandard2.0\dsTareas_Xamarin.pdb
+C:\Users\hugop\OneDrive\Escritorio\DSTareas\dsTareas_Xamarin\dsTareas_Xamarin\obj\Debug\netstandard2.0\Pages\LoginPage.xaml.g.cs
