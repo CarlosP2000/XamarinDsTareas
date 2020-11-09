@@ -53,6 +53,7 @@
                         BorderRadius="22"            
                         TextColor="White"            
                         BackgroundColor="RoyalBlue"
+                        Clicked="IngressButton_Clicked"
                         />
 
                 </StackLayout>

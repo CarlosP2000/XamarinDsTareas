@@ -16,5 +16,11 @@ namespace dsTareas_Xamarin.Pages
         {
             InitializeComponent();
         }
+
+        private void IngressButton_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new NewTaskUserPage
+                ());
+        }
     }
 }
