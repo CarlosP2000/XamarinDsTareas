@@ -3,22 +3,24 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="dsTareas_Xamarin.Pages.NewTaskUserPage"
              Title="Abrir un nuevo Ticket"
-            >
-    
+         >
 
+
+    <ContentPage.Content>
         <ScrollView>
             <StackLayout Padding="20,10,20,10">
-            <Label Text="Correo electronico"/>
-            <Label Text="prueba@gmail.com"/>
-            <Label Text="Nombre cliente: Usuario prueba"/>
-            <Entry Placeholder="Titulo"/>
-            <Entry Placeholder="Descripcion"/>
-            <StackLayout Orientation="Horizontal">
-                <Label Text="No hay nada seleccionado"></Label>
-                <Button Text="Examinar"></Button>
+                <Label Text="Correo electronico"/>
+                <Label Text="prueba@gmail.com"/>
+                <Label Text="Nombre cliente: Usuario prueba"/>
+                <Entry Placeholder="Titulo"/>
+                <Entry Placeholder="Descripcion"/>
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="No hay nada seleccionado"></Label>
+                    <Button Text="Examinar"></Button>
+                </StackLayout>
             </StackLayout>
-        </StackLayout>
         </ScrollView>
+    </ContentPage.Content>
         
         
 </ContentPage>
