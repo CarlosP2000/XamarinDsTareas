@@ -1,12 +1,38 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="dsTareas_Xamarin.Pages.ViewTaskUserPages">
+             x:Class="dsTareas_Xamarin.Pages.ViewTaskUserPages"
+             Title="Resumen del ticket">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+        <ScrollView>
+            <StackLayout Padding="20,20,20,20">
+                <Label Text="Ticket: #5445877" FontSize="18"/>
+                <Label Text="Asunto; Tarea Prueba" FontSize="18"/>
+                <Label Text="Ticket Estado: Activo" FontSize="14"/>
+                <Label Text="Nombre: Ususario Prueba"/>
+                <Label Text="Departamento: Soporte BA"/>
+                <Label Text="Correo Electronico:"/>
+                <Label Text="Probando@hoover.com"/>
+                <Label Text="Telefono:"/>
+                <Label Text="Creado: 13/01/2020 03:19:00 p.m"/>
+                <StackLayout FlowDirection="RightToLeft">
+                    <Picker x:Name="comentariosPicker" Title="Comentarios"
+                            HorizontalOptions="FillAndExpand"
+                            SelectedIndexChanged="comentariosPicker_SelectedIndexChanged"/>
+                </StackLayout>
+                <Label Text="08/01/2020 12:40:05 p.m"/>
+                <Label Text="Usuario Prueba"/>
+                <Label Text="The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham."/>
+                <Button Text="developer.pdf"></Button>
+                <Entry Placeholder="Escriba una respuesta" FontSize="14"/>
+                <StackLayout Orientation="Horizontal" FlowDirection="RightToLeft">
+                    <Button Text="Examinar"></Button>
+                    <Label Text="NMingun archivo seleccionado" Padding="15"/>
+                </StackLayout>
+                <StackLayout FlowDirection="RightToLeft">
+                    <Button Text="Enviar comentario"></Button>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

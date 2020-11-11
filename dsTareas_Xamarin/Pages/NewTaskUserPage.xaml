@@ -4,19 +4,23 @@
              x:Class="dsTareas_Xamarin.Pages.NewTaskUserPage"
              Title="Abrir un nuevo Ticket"  NavigationPage.HasBackButton="False">
 
-
+    <ContentPage.ToolbarItems>
+        <ToolbarItem  IconImageSource="send_icon.png"/>
+    </ContentPage.ToolbarItems>
+    
     <ContentPage.Content>
         <ScrollView>
-            <StackLayout Padding="20,10,20,10">
-                <Label Text="Correo electronico"/>
-                <Label Text="prueba@gmail.com"/>
-                <Label Text="Nombre cliente: Usuario prueba"/>
-                <Entry Placeholder="Titulo"/>
-                <Entry Placeholder="Descripcion"/>
-                <StackLayout Orientation="Horizontal">
-                    <Label Text="No hay nada seleccionado"></Label>
-                    <Button Text="Examinar"></Button>
+            <StackLayout Padding="20,20,20,20">
+                <Label Text="Correo electronico: prueba@gmail.com" FontSize="16"/>
+                <Label Text="Nombre cliente: Usuario prueba" FontSize="16" Padding="0,0,0,25"/>
+                <Entry Placeholder="Titulo *" ClearButtonVisibility="WhileEditing" FontSize="15"/>
+                <Entry Placeholder="Detalle del incidente *" FontSize="15"/>
+                <StackLayout Orientation="Horizontal" FlowDirection="RightToLeft">
+                    <Button Text="Adjuntar archivos" FontSize="14"></Button>
                 </StackLayout>
+                <Label 
+                        Text="C:\Users\rober\OneDrive\Desktop\Proyecto_ds\dsXamarin\dsTareasXamarin\dsTareasXamarin\dsTareasXamarin.Android\Resources\drawable"
+                        Padding="0,14,10,0"/>
             </StackLayout>
         </ScrollView>
     </ContentPage.Content>

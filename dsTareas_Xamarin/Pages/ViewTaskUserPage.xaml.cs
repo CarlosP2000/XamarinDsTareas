@@ -15,6 +15,15 @@ namespace dsTareas_Xamarin.Pages
         public ViewTaskUserPages()
         {
             InitializeComponent();
+
+            comentariosPicker.Items.Add("Último comentario");
+            comentariosPicker.Items.Add("Todos los comentarios");
+
+        }
+
+        private void comentariosPicker_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            
         }
     }
 }

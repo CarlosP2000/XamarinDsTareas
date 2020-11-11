@@ -85,7 +85,9 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\send_icon.png" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\dsTareas_Xamarin\dsTareas_Xamarin.csproj">
       <Project>{D8A26288-CF8A-4D3A-BCA1-06BCAA747A16}</Project>

@@ -465,3 +465,4 @@ C:\Users\hugop\OneDrive\Escritorio\DSTareas\dsTareas_Xamarin\dsTareas_Xamarin.An
 C:\Users\hugop\OneDrive\Escritorio\DSTareas\dsTareas_Xamarin\dsTareas_Xamarin.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\hugop\OneDrive\Escritorio\DSTareas\dsTareas_Xamarin\dsTareas_Xamarin.Android\obj\Debug\90\res\drawable\logo_demosoft.png
 C:\Users\hugop\OneDrive\Escritorio\DSTareas\dsTareas_Xamarin\dsTareas_Xamarin.Android\obj\Debug\90\res\drawable\fondologin.jpg
+C:\Users\hugop\OneDrive\Escritorio\DSTareas\dsTareas_Xamarin\dsTareas_Xamarin.Android\obj\Debug\90\res\drawable\send_icon.png
