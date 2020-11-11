@@ -1930,24 +1930,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hugop\\.nuget\\packages\\": {},
+    "C:\\Users\\rober\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hugop\\OneDrive\\Escritorio\\DSTareas\\dsTareas_Xamarin\\dsTareas_Xamarin.Android\\dsTareas_Xamarin.Android.csproj",
+      "projectUniqueName": "C:\\Users\\rober\\OneDrive\\Desktop\\dsXamarinProject\\dsTareas_Xamarin.Android\\dsTareas_Xamarin.Android.csproj",
       "projectName": "dsTareas_Xamarin.Android",
-      "projectPath": "C:\\Users\\hugop\\OneDrive\\Escritorio\\DSTareas\\dsTareas_Xamarin\\dsTareas_Xamarin.Android\\dsTareas_Xamarin.Android.csproj",
-      "packagesPath": "C:\\Users\\hugop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hugop\\OneDrive\\Escritorio\\DSTareas\\dsTareas_Xamarin\\dsTareas_Xamarin.Android\\obj\\",
+      "projectPath": "C:\\Users\\rober\\OneDrive\\Desktop\\dsXamarinProject\\dsTareas_Xamarin.Android\\dsTareas_Xamarin.Android.csproj",
+      "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rober\\OneDrive\\Desktop\\dsXamarinProject\\dsTareas_Xamarin.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\hugop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1961,8 +1961,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\hugop\\OneDrive\\Escritorio\\DSTareas\\dsTareas_Xamarin\\dsTareas_Xamarin\\dsTareas_Xamarin.csproj": {
-              "projectPath": "C:\\Users\\hugop\\OneDrive\\Escritorio\\DSTareas\\dsTareas_Xamarin\\dsTareas_Xamarin\\dsTareas_Xamarin.csproj"
+            "C:\\Users\\rober\\OneDrive\\Desktop\\dsXamarinProject\\dsTareas_Xamarin\\dsTareas_Xamarin.csproj": {
+              "projectPath": "C:\\Users\\rober\\OneDrive\\Desktop\\dsXamarinProject\\dsTareas_Xamarin\\dsTareas_Xamarin.csproj"
             }
           }
         }

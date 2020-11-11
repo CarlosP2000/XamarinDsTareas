@@ -2,7 +2,9 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="dsTareas_Xamarin.Pages.NewTaskUserPage"
-             Title="Abrir un nuevo Ticket"  NavigationPage.HasBackButton="False">
+             IconImageSource="mas_icon.png"
+            NavigationPage.HasBackButton="False"
+             NavigationPage.HasNavigationBar="False">
 
     <ContentPage.ToolbarItems>
         <ToolbarItem  IconImageSource="send_icon.png"/>

@@ -1,10 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="dsTareas_Xamarin.Pages.LoginPage">
+             x:Class="dsTareas_Xamarin.Pages.LoginPage"
+             NavigationPage.HasNavigationBar="False">
 
     <ContentPage.Content>
 
+        
         <Grid>
 
             <Image Source="fondologin.jpg"
@@ -12,12 +14,12 @@
 
             <ScrollView>
 
-                <StackLayout  Padding="10,30,10,10">
+                <StackLayout  Padding="10,50,10,10">
 
 
                     <Image Source="logo_demosoft.png"
                            WidthRequest="250"
-                           HeightRequest="150"/>
+                           HeightRequest="210"/>
 
                     <ActivityIndicator
                         x:Name="WaitActivity"
@@ -50,8 +52,8 @@
                     <Button                    
                         x:Name="IngressButton"            
                         Text="Iniciar Sesion"            
-                        BorderRadius="22"            
-                        TextColor="White"            
+                        BorderRadius="22"         
+                        TextColor="White"
                         BackgroundColor="RoyalBlue"
                         Clicked="IngressButton_Clicked"
                         />

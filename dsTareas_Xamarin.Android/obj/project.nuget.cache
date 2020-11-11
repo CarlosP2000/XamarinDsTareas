@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "exdcLN2aChaJ3z3xKP0ZkbCZE9T9TYqJXb6DGxoqY0HUPHdqsXCuGdx0ULiXEQbDclqoEc7ibvpipiLvriegqA==",
+  "dgSpecHash": "4RkoEwjbhMIi10G4wWAwS3Hpc/r3sbjeAZPoJ884PFNze3ycwKPR8iPOK5/kTJnRZYSy45O384HOU6j6YUQc+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hugop\\OneDrive\\Escritorio\\DSTareas\\dsTareas_Xamarin\\dsTareas_Xamarin.Android\\dsTareas_Xamarin.Android.csproj",
+  "projectFilePath": "C:\\Users\\rober\\OneDrive\\Desktop\\dsXamarinProject\\dsTareas_Xamarin.Android\\dsTareas_Xamarin.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

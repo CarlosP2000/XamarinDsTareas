@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H/+VR0gTgdt9B/6dlULAUhdWONZYStw0By7UbqNFkiptCqPx4GxcFdH7E69+nOuD61K/KV+ZD4n9qbRKONZ5hw==",
+  "dgSpecHash": "VoXh0/QU1idaAWCo2ruMXTyogwgyEBqzrZMV/nvrrB68b7SkGJJB7hLfXzVz9POl5xSQ1MFET3vn7iBgD+YBow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hugop\\OneDrive\\Escritorio\\DSTareas\\dsTareas_Xamarin\\dsTareas_Xamarin.iOS\\dsTareas_Xamarin.iOS.csproj",
+  "projectFilePath": "C:\\Users\\rober\\OneDrive\\Desktop\\dsXamarinProject\\dsTareas_Xamarin.iOS\\dsTareas_Xamarin.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"

@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hugop\\OneDrive\\Escritorio\\DSTareas\\dsTareas_Xamarin\\dsTareas_Xamarin.iOS\\dsTareas_Xamarin.iOS.csproj": {}
+    "C:\\Users\\rober\\OneDrive\\Desktop\\dsXamarinProject\\dsTareas_Xamarin.iOS\\dsTareas_Xamarin.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hugop\\OneDrive\\Escritorio\\DSTareas\\dsTareas_Xamarin\\dsTareas_Xamarin.iOS\\dsTareas_Xamarin.iOS.csproj": {
+    "C:\\Users\\rober\\OneDrive\\Desktop\\dsXamarinProject\\dsTareas_Xamarin.iOS\\dsTareas_Xamarin.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hugop\\OneDrive\\Escritorio\\DSTareas\\dsTareas_Xamarin\\dsTareas_Xamarin.iOS\\dsTareas_Xamarin.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\rober\\OneDrive\\Desktop\\dsXamarinProject\\dsTareas_Xamarin.iOS\\dsTareas_Xamarin.iOS.csproj",
         "projectName": "dsTareas_Xamarin.iOS",
-        "projectPath": "C:\\Users\\hugop\\OneDrive\\Escritorio\\DSTareas\\dsTareas_Xamarin\\dsTareas_Xamarin.iOS\\dsTareas_Xamarin.iOS.csproj",
-        "packagesPath": "C:\\Users\\hugop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hugop\\OneDrive\\Escritorio\\DSTareas\\dsTareas_Xamarin\\dsTareas_Xamarin.iOS\\obj\\",
+        "projectPath": "C:\\Users\\rober\\OneDrive\\Desktop\\dsXamarinProject\\dsTareas_Xamarin.iOS\\dsTareas_Xamarin.iOS.csproj",
+        "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rober\\OneDrive\\Desktop\\dsXamarinProject\\dsTareas_Xamarin.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\hugop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\hugop\\OneDrive\\Escritorio\\DSTareas\\dsTareas_Xamarin\\dsTareas_Xamarin\\dsTareas_Xamarin.csproj": {
-                "projectPath": "C:\\Users\\hugop\\OneDrive\\Escritorio\\DSTareas\\dsTareas_Xamarin\\dsTareas_Xamarin\\dsTareas_Xamarin.csproj"
+              "C:\\Users\\rober\\OneDrive\\Desktop\\dsXamarinProject\\dsTareas_Xamarin\\dsTareas_Xamarin.csproj": {
+                "projectPath": "C:\\Users\\rober\\OneDrive\\Desktop\\dsXamarinProject\\dsTareas_Xamarin\\dsTareas_Xamarin.csproj"
               }
             }
           }
@@ -65,20 +65,20 @@
         }
       }
     },
-    "C:\\Users\\hugop\\OneDrive\\Escritorio\\DSTareas\\dsTareas_Xamarin\\dsTareas_Xamarin\\dsTareas_Xamarin.csproj": {
+    "C:\\Users\\rober\\OneDrive\\Desktop\\dsXamarinProject\\dsTareas_Xamarin\\dsTareas_Xamarin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hugop\\OneDrive\\Escritorio\\DSTareas\\dsTareas_Xamarin\\dsTareas_Xamarin\\dsTareas_Xamarin.csproj",
+        "projectUniqueName": "C:\\Users\\rober\\OneDrive\\Desktop\\dsXamarinProject\\dsTareas_Xamarin\\dsTareas_Xamarin.csproj",
         "projectName": "dsTareas_Xamarin",
-        "projectPath": "C:\\Users\\hugop\\OneDrive\\Escritorio\\DSTareas\\dsTareas_Xamarin\\dsTareas_Xamarin\\dsTareas_Xamarin.csproj",
-        "packagesPath": "C:\\Users\\hugop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hugop\\OneDrive\\Escritorio\\DSTareas\\dsTareas_Xamarin\\dsTareas_Xamarin\\obj\\",
+        "projectPath": "C:\\Users\\rober\\OneDrive\\Desktop\\dsXamarinProject\\dsTareas_Xamarin\\dsTareas_Xamarin.csproj",
+        "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rober\\OneDrive\\Desktop\\dsXamarinProject\\dsTareas_Xamarin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\hugop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
